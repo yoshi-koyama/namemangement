@@ -6,11 +6,6 @@ public class Name {
 
     private String name;
 
-    public Name(int id, String name) {
-        this.id = id;
-        this.name = name;
-    }
-
     public int getId() {
         return id;
     }
